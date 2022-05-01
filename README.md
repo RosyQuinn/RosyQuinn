@@ -3,7 +3,7 @@
 - I’m interested in coding
 
 - I’m currently learning html, so basically I'm a beginner
-- 
+
 - How to reach me by "nusaibafatima7@gmail.com"
 
 <!---
