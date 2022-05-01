@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rosyquinn</h1>
+<h1 align="center">Hey there 👋, I'm Rosyquinn</h1>
 <h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
+
+- 👀 I’m interested in **Coding**
+
+- 🌱 I’m currently learning **HTML**
 
 - 📫 How to reach me **nusaibafatima7@gmail.com**
 
@@ -7,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.youtube.com/c/nusaiba fatima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nusaiba fatima" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
