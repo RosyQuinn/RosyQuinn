@@ -1,18 +1,21 @@
 <h1 align="center">Hey there👋, I'm Nusaiba Fatima👩🏻‍💻</h1>
 <h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
 
-- 👀 I’m interested in **Coding**
+# 💫About Me :
+👀 I’m interested in Coding
 
-- 🌱 I’m currently learning **HTML**
+🌱 I’m currently learning HTML
 
-- 📫 How to reach me **nusaibafatima7@gmail.com**
+📫 How to reach me nusaibafatima7@gmail.com
 
-- ⚡ Fun fact **I think I am good**
+⚡ Fun fact I think I am good
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=RosyQuinn&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RosyQuinn&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RosyQuinn&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/channel/UC81N8zyPNsmCi0Rg9PodM6Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nusaiba fatima" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=RosyQuinn&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
