@@ -16,7 +16,7 @@
 
 ---
 
-[3:08 pm, 02/05/2022] nuzhat mirza muqeem: <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UC81N8zyPNsmCi0Rg9PodM6Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nusaiba fatima" height="30" width="40" /></a>
 </p>
