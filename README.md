@@ -15,7 +15,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RosyQuinn&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RosyQuinn&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[3:08 pm, 02/05/2022] nuzhat mirza muqeem: <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/channel/UC81N8zyPNsmCi0Rg9PodM6Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nusaiba fatima" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
