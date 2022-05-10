@@ -10,6 +10,8 @@
 
 ⚡ Fun fact I think I am good
 
+👩‍💻 I have a YouTube channel https://www.youtube.com/channel/UCct-vHspaFDdSKZZxz1Qjsg/featured
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=RosyQuinn&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RosyQuinn&theme=radical&hide_border=false)<br/>
