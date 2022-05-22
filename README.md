@@ -6,7 +6,6 @@
     align="center">A Girl trying to Figure-Out Stuff!!
 </h3>
 
-
 # 💫About Me :
 
 👀 I’m interested in Coding
